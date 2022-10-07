@@ -1,2 +1,2 @@
 # CatPhotoApp
-freecodecam project
+freecodecam.org Project CatPhotoApp
